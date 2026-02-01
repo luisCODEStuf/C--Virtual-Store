@@ -1,0 +1,14 @@
+C:\Users\luis\Downloads\Loja-Virtual-em-C#\_Store\bin\Debug\net9.0\_Store.exe
+C:\Users\luis\Downloads\Loja-Virtual-em-C#\_Store\bin\Debug\net9.0\_Store.deps.json
+C:\Users\luis\Downloads\Loja-Virtual-em-C#\_Store\bin\Debug\net9.0\_Store.runtimeconfig.json
+C:\Users\luis\Downloads\Loja-Virtual-em-C#\_Store\bin\Debug\net9.0\_Store.dll
+C:\Users\luis\Downloads\Loja-Virtual-em-C#\_Store\bin\Debug\net9.0\_Store.pdb
+C:\Users\luis\Downloads\Loja-Virtual-em-C#\_Store\obj\Debug\net9.0\_Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis\Downloads\Loja-Virtual-em-C#\_Store\obj\Debug\net9.0\_Store.AssemblyInfoInputs.cache
+C:\Users\luis\Downloads\Loja-Virtual-em-C#\_Store\obj\Debug\net9.0\_Store.AssemblyInfo.cs
+C:\Users\luis\Downloads\Loja-Virtual-em-C#\_Store\obj\Debug\net9.0\_Store.csproj.CoreCompileInputs.cache
+C:\Users\luis\Downloads\Loja-Virtual-em-C#\_Store\obj\Debug\net9.0\_Store.dll
+C:\Users\luis\Downloads\Loja-Virtual-em-C#\_Store\obj\Debug\net9.0\refint\_Store.dll
+C:\Users\luis\Downloads\Loja-Virtual-em-C#\_Store\obj\Debug\net9.0\_Store.pdb
+C:\Users\luis\Downloads\Loja-Virtual-em-C#\_Store\obj\Debug\net9.0\_Store.genruntimeconfig.cache
+C:\Users\luis\Downloads\Loja-Virtual-em-C#\_Store\obj\Debug\net9.0\ref\_Store.dll
